@@ -1,0 +1,87 @@
+﻿<Page x:Class="Prokotkin.Pages.AbonentPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Prokotkin.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="AbonentPage">
+    <!--Я комментарий-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="auto"/>
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid>
+            <StackPanel Margin="10">
+                <Button Height="90"
+                        Width="90">
+                    <Button.Content>
+                        <TextBlock Text="Логотип ТНС" 
+                                   TextWrapping="Wrap"
+                                   TextAlignment="Center"
+                                   FontSize="15"/>
+                    </Button.Content>
+                </Button>
+                <Button Height="35"
+                        Width="90"
+                        Margin="0,5,0,0"
+                        Content="Абоненты"/>
+                <Button Height="35"
+                        Width="90"
+                        Margin="0,5,0,0">
+                    <Button.Content>
+                        <TextBlock Text="Управление оборудованием" 
+                                   TextWrapping="Wrap"
+                                   TextAlignment="Center"/>
+                    </Button.Content>
+                </Button>
+                <Button Height="35"
+                        Width="90"
+                        Margin="0,5,0,0"
+                        Content="Активы"/>
+                <Button Height="35"
+                        Width="90"
+                        Margin="0,5,0,0"
+                        Content="Биллинг"/>
+                <Button Height="35"
+                        Width="90"
+                        Margin="0,5,0,0">
+                    <Button.Content>
+                        <TextBlock Text="Поддержка пользователей" 
+                                   TextWrapping="Wrap"
+                                   TextAlignment="Center"/>
+                    </Button.Content>
+                </Button>
+                <Button Height="35"
+                        Width="90"
+                        Margin="0,5,0,0"
+                        Content="CRM"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="90" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <StackPanel VerticalAlignment="Center">
+                <TextBlock Text="Абоненты ТНС"
+                           FontSize="35"/>
+            </StackPanel>
+            <StackPanel Grid.Row="1"
+                        HorizontalAlignment="Right">
+                <TextBlock Background="#F1EEEE"
+                           Height="40"
+                           Width="150"
+                           Text="События"
+                           FontSize="18"
+                           TextAlignment="Center"/>
+            </StackPanel>
+            <StackPanel >
+                
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Page>

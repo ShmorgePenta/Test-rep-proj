@@ -1,0 +1,7 @@
+\\SPEK\PrePress\913-прс\!МДК 01.01\Студенты\Магарченков Даниил\Прокоткин\Prokotkin\Prokotkin\obj\Release\Prokotkin.csproj.AssemblyReference.cache
+\\SPEK\PrePress\913-прс\!МДК 01.01\Студенты\Магарченков Даниил\Прокоткин\Prokotkin\Prokotkin\obj\Release\Prokotkin.csproj.SuggestedBindingRedirects.cache
+\\SPEK\PrePress\913-прс\!МДК 01.01\Студенты\Магарченков Даниил\Прокоткин\Prokotkin\Prokotkin\obj\Release\MainWindow.g.cs
+\\SPEK\PrePress\913-прс\!МДК 01.01\Студенты\Магарченков Даниил\Прокоткин\Prokotkin\Prokotkin\obj\Release\Pages\LoginPage.g.cs
+\\SPEK\PrePress\913-прс\!МДК 01.01\Студенты\Магарченков Даниил\Прокоткин\Prokotkin\Prokotkin\obj\Release\App.g.cs
+\\SPEK\PrePress\913-прс\!МДК 01.01\Студенты\Магарченков Даниил\Прокоткин\Prokotkin\Prokotkin\obj\Release\Prokotkin_MarkupCompile.cache
+\\SPEK\PrePress\913-прс\!МДК 01.01\Студенты\Магарченков Даниил\Прокоткин\Prokotkin\Prokotkin\obj\Release\Prokotkin_MarkupCompile.lref
